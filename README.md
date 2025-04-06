@@ -1,0 +1,2 @@
+# nix-kicad
+# nix-kicad
